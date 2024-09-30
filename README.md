@@ -78,4 +78,4 @@ python md_to_html_CLI.py path/to/input.md --output_file output.html --output_dir
 This command will convert the specified Markdown file to HTML and save it with the given name in the specified directory.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE.txt](https://unloosed.github.io/MarkdownToHTMLConverter/LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE.txt](https://github.com/Unloosed/MarkdownToHTMLConverter/blob/main/LICENSE.txt) file for details.
